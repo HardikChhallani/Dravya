@@ -28,10 +28,10 @@ A Streamlit-based application powered by Ekacare MCP (Medical Content Provider) 
 │   │   ├── groq_service.py    # Groq LLM service integration
 │   │   └── mcp_service.py     # MCP service orchestration
 │   ├── ui/
-│   │   ├── alternatives.py    # Medicine alternatives UI
-│   │   ├── generic_medicines.py # Generic medicines UI
-│   │   └── medicine_finder.py  # Medicine information UI
-│   └── app.py                 # Main Streamlit application
+│       ├── alternatives.py    # Medicine alternatives UI
+│       ├── generic_medicines.py # Generic medicines UI
+│       └── medicine_finder.py  # Medicine information UI
+|── main.py
 ├── .env                       # Environment variables
 └── requirements.txt           # Project dependencies
 ```
