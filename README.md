@@ -50,7 +50,7 @@ A Streamlit-based application powered by Ekacare MCP (Medical Content Provider) 
    EKA_CLIENT_SECRET=your_eka_client_secret # Required for Ekacare MCP API access
    ```
 
-   Note: Obtain your Ekacare API credentials by registering at https://api.eka.care
+   Note: Obtain your Ekacare API credentials by mailing at ekaconnect@eka.care
 
 3. Run the application:
    ```bash
